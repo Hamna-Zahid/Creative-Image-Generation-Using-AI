@@ -36,7 +36,7 @@ The main objective of this project is to:
 
 | DALL·E 2 Output | Stable Diffusion 2 Output | Aphantasia Output |
 |-----------------|----------------------------|--------------------|
-| ![DALL-E Output](images/DALL-E 2 (1).jpeg) | ![SD Output](images/Stable-Diffusion (1).jpeg) | ![Aphantasia Output](images/Aphantasia (1).jpeg) |
+| ![DALL-E Output](images/DALL-E2(1).jpeg) | ![SD Output](images/Stable-Diffusion(1).jpeg) | ![Aphantasia Output](images/Aphantasia(1).jpeg) |
 
 ---
 
@@ -44,7 +44,7 @@ The main objective of this project is to:
 
 | DALL·E 2 Output | Stable Diffusion 2 Output | Aphantasia Output |
 |-----------------|----------------------------|--------------------|
-| ![DALL-E Output](images/DALL-E 2 (2).jpeg) | ![SD Output](images/Stable-Diffusion (2).jpeg) | ![Aphantasia Output](images/Aphantasia (2).jpeg) |
+| ![DALL-E Output](images/DALL-E2(2).jpeg) | ![SD Output](images/Stable-Diffusion(2).jpeg) | ![Aphantasia Output](images/Aphantasia(2).jpeg) |
 
 ---
 
